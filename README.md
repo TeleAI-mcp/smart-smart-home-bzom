@@ -1,2 +1,3 @@
-# smart-smart-home-bzom
+# Smart Smart Home Bzom
+
 A smart home automation platform for modern development workflows.
